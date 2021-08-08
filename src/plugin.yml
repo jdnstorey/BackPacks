@@ -1,0 +1,10 @@
+name: BackPacks
+main: me.polo.backpacks.Main
+author: polo
+version: A0.4
+api-version: 1.17
+
+changelog:
+    A0.2 - added bundle recipe
+    A0.3 - removed bundle recipe
+    A0.4 - fixed issue with it deleting items every time event called
